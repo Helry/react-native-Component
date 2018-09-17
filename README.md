@@ -35,5 +35,5 @@
 
 ### 带上下拉的List组件(同事写的)
 
-* [带上下拉刷新的列表react-native-listview-refresh](https://github.com/Helry/react-native-listview-refresh)
+* [带上下拉刷新的列表react-native-listview-refresh](https://github.com/youngjuning/react-native-listview-refresh)
 
